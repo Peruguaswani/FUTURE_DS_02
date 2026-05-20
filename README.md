@@ -1,67 +1,62 @@
 📊 TELCO CUSTOMER CHURN DASHBOARD
-🚀 Future Interns – Task 2
+📌 Project Overview
 
-This project is a Power BI Dashboard created for analyzing customer churn in a telecom company.
-The dashboard provides insights into customer behavior, churn trends, payment methods, internet services, and contract types.
+This project is a Telco Customer Churn Dashboard created as part of Future Interns – Task 2.
+The dashboard provides insights into customer churn behavior by analyzing customer demographics, services, payment methods, contract types, and monthly charges.
 
-📌 Dashboard Overview
+The main goal of this dashboard is to help businesses understand:
 
-The dashboard helps in understanding:
+Why customers are leaving
+Which customer groups are more likely to churn
+Service and payment patterns affecting churn
+🛠️ Tools Used
+Power BI – Data Visualization & Dashboard Creation
+Excel / CSV Dataset – Data Source
+Data Cleaning & Transformation – Power Query
+📂 Dashboard Features
+✅ KPI Cards
+
+The dashboard includes important KPIs such as:
 
 Total Customers
 Churn Customers
-Customer Churn Rate
-Internet Service Analysis
+Total Charges
+Monthly Charges
+Senior Citizens Count
+📊 Visualizations Included
+Customer Churn Distribution (Donut Chart)
+Contract Type Analysis
+Churn by Internet Service
 Gender-wise Churn Analysis
-Contract Type Distribution
+Tenure vs Monthly Charges
 Payment Method Distribution
-Monthly Charges vs Tenure Analysis
-🛠️ Tools Used
-Power BI
-Microsoft Excel / CSV Dataset
-Data Visualization Techniques
-DAX Measures
-📂 Dataset Used
-Telco Customer Churn Dataset
-Source: Kaggle
-📈 Dashboard Features
-✅ KPI Cards
-Total Customers
-Total Churn Customers
-Churn Rate
-Avg Monthly Charges
-Avg Tenure
-✅ Charts Included
-Donut Chart – Customer Churn Distribution
-Funnel Chart – Contract Type Analysis
-Clustered Column Chart – Churn by Internet Service
-Stacked Column Chart – Gender-wise Churn Analysis
-Line Chart – Tenure vs Monthly Charges
-Pie Chart – Payment Method Distribution
-🎨 Dashboard Design Highlights
-Modern UI Design
-Rounded Corners & Shadow Effects
-Consistent Color Theme
-Interactive Visualizations
-Clean Layout for Better Insights
-📚 Key Insights
-Customers with Month-to-Month contracts show higher churn rates.
-Fiber Optic users have more churn compared to other internet services.
-Customers with higher monthly charges are more likely to churn.
-Payment methods like Electronic Check show higher churn percentages.
-📷 Dashboard Preview
+🔍 Key Insights
+Customers with month-to-month contracts have higher churn rates.
+Fiber optic users show more churn compared to other internet services.
+Both male and female customers show similar churn patterns.
+Certain payment methods are more commonly associated with churn customers.
+Customer tenure impacts monthly charge behavior.
+🎯 Objectives of the Dashboard
+Analyze customer churn trends
+Identify high-risk customer groups
+Improve customer retention strategies
+Provide business insights using data visualization
+📁 Project Structure
+Future_Interns_Task2/
+│
+├── Dashboard.pbix
+├── Dataset.csv
+├── Screenshots/
+└── README.md
+🚀 How to Use
+Open the .pbix file in Power BI Desktop
+Load the dataset if required
+Explore the dashboard visuals and insights
+📸 Dashboard Preview
 
-TELCO CUSTOMER CHURN DASHBOARD created in Power BI.
+Telco Customer Churn Analysis Dashboard with interactive visualizations and KPI cards.
 
-💡 What I Learned
+👨‍💻 Internship Task
 
-Through this project, I learned:
-
-Creating interactive dashboards in Power BI
-Data cleaning and transformation
-Using different chart visualizations
-Designing professional dashboard layouts
-Applying DAX calculations for KPIs
-🔗 Internship
-
-This project was completed as part of the Future Interns Internship Program.
+Future Interns – Task 2
+Project: Customer Churn Analysis Dashboard
